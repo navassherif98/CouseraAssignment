@@ -1,2 +1,1 @@
-# CouseraAssignment
-Assignments of Cousera
+index.html
