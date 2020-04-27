@@ -1,6 +1,2 @@
+module2-solution/index.html
 module3-solution/index.html
-Styles.css
-
-module3-solution
-index.html
-Styles.css
