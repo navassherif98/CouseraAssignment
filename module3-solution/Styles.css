@@ -1,0 +1,23 @@
+header{
+    background-color:red;
+    color:orange;
+}
+.menubar{
+    width: 20px;
+    height: 3px;
+    background-color: black;
+    margin: 5px 0;
+}
+.dropdown-menu .dropdown-item{
+    background-color:gray;
+    border: .5px solid black;
+}
+.content{
+    background-color: orange;
+    padding: 20vh;
+}
+section{
+    margin-top: 2vh;
+    background-color: grey;
+    padding: 7vh;
+}
