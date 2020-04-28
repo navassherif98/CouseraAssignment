@@ -8,13 +8,18 @@ header{
     background-color: black;
     margin: 5px 0;
 }
-.dropdown-menu .dropdown-item{
-    background-color:gray;
-    border: .5px solid black;
+#collapsable-nav{
+    background-color: grey;
+    margin: 0%;
+}
+li{
+    list-style-type: none;
+    padding: 2%;
+    font-size: 4vh;
 }
 .content{
     background-color: orange;
-    padding: 20vh;
+    padding: 10vh;
 }
 section{
     margin-top: 2vh;
